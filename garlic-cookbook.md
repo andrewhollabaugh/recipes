@@ -1,12 +1,12 @@
 Copied from "The Garlic Cookbook" by Lorna Rhodes
 
 # Aioli with Crudites
-6 cloves garlic
-2 egg yolks
-1 tsp dijon mustard
-2/3 cup olive oil
-2/3 cup peanut oil
-2 tsp lemon juice
+-6 cloves garlic
+-2 egg yolks
+-1 tsp dijon mustard
+-2/3 cup olive oil
+-2/3 cup peanut oil
+-2 tsp lemon juice
 
 Ensure ingredients for aioli are at room temperature, then put the garlic, egg yolks, and mustard in a blender or food processor. With the motor running, add the oils a few drops at a time until the mixture starts to thicken. Increase the flow of oil until it is all incorporated, then beat in the lemon juice. Season with salt and pepper. Transfer to a bowl, cover and chill. Prepare a selection of colorful fresh crudites to serve with the aioli. Crudites are [prepared raw vegetables, such as carrot and celergy sticks and radishes.
 
