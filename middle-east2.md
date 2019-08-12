@@ -1,20 +1,20 @@
 Copied from "The Complete Middle East Cookbook" by Tess Mallos
 
 # Spanakopita
-1 kg (2lb) spinach
-1 medium-sized onion, chopped
-1/2 cup olive oil
-1 cup chopped spring onions
-1/2 cup chopped parsely (no)
-2 tsp chopped dill or fennel (no)
-1/4 tsp ground nutmeg (dash)
-1/2 cup mizithra or cottage cheese (V)
-1 cup well-crumbled feta cheese (2 pkg feta)
-1/4 cup finely grated kefalotiri or parmesan cheese (no)
-4 eggs, lightly beaten
-salt, pepper
-10 sheets fillo pastry
-melted butter for assembling pie
+- 1 kg (2lb) spinach
+- 1 medium-sized onion, chopped
+- 1/2 cup olive oil
+- 1 cup chopped spring onions
+- 1/2 cup chopped parsely (no)
+- 2 tsp chopped dill or fennel (no)
+- 1/4 tsp ground nutmeg (dash)
+- 1/2 cup mizithra or cottage cheese (V)
+- 1 cup well-crumbled feta cheese (2 pkg feta)
+- 1/4 cup finely grated kefalotiri or parmesan cheese (no)
+- 4 eggs, lightly beaten
+- salt, pepper
+- 10 sheets fillo pastry
+- melted butter for assembling pie
 
 Wash spinach well and cut off any coarse stems. Chop coarsly and put into a large pan. Cover and place over heat for 7-8 minutes shaking pan now and then or turning spinach with a fork. Heat just long enough to wilt spinach so tha tjuices can run out freely. Drain well in a colander, pressing occasionally with a spoon.
 
