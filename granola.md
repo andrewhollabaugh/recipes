@@ -1,4 +1,6 @@
-===1===
+A granola bar recipe I tweaked. Now it isn't really granola anymore. Each list is one design iteration.
+
+## 1
 1 cup oats
 1/2 cup pretzels
 some amount of sunflower/seasame
@@ -6,7 +8,7 @@ some amount of sunflower/seasame
 3/16 cup normal honey
 1 teaspoon vanilla
 
-==2==
+## 2
 1/2 cup oats
 1/2 cup pretzels
 1/2 cup sunflower
@@ -15,7 +17,7 @@ some amount seasame
 1/4 cup raw honey
 1-1/2 teaspoon vanilla
 
-==3==
+## 3
 1/4 cup oats
 1/2 cup pretzels
 5/8 cup sunflower
@@ -25,7 +27,7 @@ some amount seasame
 1 teaspoon vanilla
 1/2 cup raisins
 
-==4==
+## 4
 1/2 cup softened oats
 1/2 cup sunflower
 3/4 cup seasame
@@ -35,7 +37,7 @@ some amount seasame
 3/16 cup raisins
 salt
 
-==5==
+## 5
 1/2 cup softened oats
 3/4 cup sunflower
 1/2 cup seasame
@@ -45,7 +47,7 @@ salt
 1/2 cup raisins
 salt
 
-==6==
+## 6
 1/2 cup softened oats
 3/4 cup sunflower
 1/2 cup seasame
@@ -55,12 +57,32 @@ salt
 1/2 cup raisins
 salt
 
-==7==
+## 7
 1/2 cup softened oats
 1/2 cup sunflower
 3/4 cup seasame
 1/8 cup raw honey
 1/2 cup sunbutter
 1 teaspoon vailla
-3/16 cup raisins
+1/2 cup raisins
+salt
+
+## 8
+1/2 cup softened oats
+3/4 cup sunflower
+1/2 cup seasame
+1/8 cup raw honey
+3/8 cup sunbutter
+1 teaspoon vailla
+1/2 cup raisins
+salt
+
+## 9
+1 cup sunflower
+3/4 cup seasame
+1/8 cup raw honey
+1/2 cup sunbutter
+1 teaspoon vailla
+1/2 cup raisins
+1 tbsp cumin seeds
 salt
